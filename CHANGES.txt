@@ -3,6 +3,9 @@ $Id$
 
 ======================= 2.3-dev ======================
 
+CONNECTORS-1553: Upgrade to SolrJ 6.6.5.
+(Furkan KAMACI)
+
 CONNECTORS-1338: Upgrade to SolrJ 6.3.0.
 (Shinichiro Abe)
 
