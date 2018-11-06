@@ -342,7 +342,7 @@ public class ManifoldCFSearchComponent extends SearchComponent implements SolrCo
   @Override
   public Category getCategory()
   {
-    return Category.QUERYHANDLER;
+    return Category.QUERY;
   }
 
   @Override
